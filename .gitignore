@@ -1,5 +1,4 @@
-*.tfstate
-.9/*
-
 terraform.tfstate
 terraform.tfstate.backup
+/.c9/
+
